@@ -1,2 +1,2 @@
-# React-todoApp
+# Todo App
 Simple todo application
